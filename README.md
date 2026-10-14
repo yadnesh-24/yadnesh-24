@@ -21,5 +21,5 @@ I'm a Computer Applications student passionate about building intuitive, beautif
 
 I'm always happy to connect with fellow developers, designers, and people who love building cool things.
 
-- 💼 LinkedIn: [www.linkedin.com/in/yadneshdongre](www.linkedin.com/in/yadneshdongre)
+- 💼 LinkedIn: [Yadnesh Dongre](www.linkedin.com/in/yadneshdongre)
 - 📧 Email: yadneshdongre24@gmail.com
