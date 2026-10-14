@@ -27,7 +27,7 @@ To become a skilled iOS developer, build thoughtful products that people love us
 
 I'm always happy to connect with fellow developers, designers, and people who love building cool things.
 
-- 💼 LinkedIn: [Connect with me](www.linkedin.com/in/yadneshdongre)
+- 💼 LinkedIn: [www.linkedin.com/in/yadneshdongre](www.linkedin.com/in/yadneshdongre)
 - 📧 Email: yadneshdongre24@gmail.com
 
 ---
